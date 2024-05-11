@@ -205,6 +205,37 @@
         ]
     },
     {
+        "uuid": "2DD44039-2CC4-4BF8-88C6-C58AB3ADA437",
+        "title": "Fanboy's Annoyances",
+        "desc": "Removes Web annoyances",
+        "langs": [],
+        "component_id": "epgnbcamkdbnfnoiokhgimanmhcdkkii",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsRGb3q2AK8NtV/3sof8EvdZmnrujAsYjy5Stx9zmwdAk1Hpt0dDjGoepZr/WIm+/lLOX59Sjp8nUL4JIC2RJpZphXgaHkwvosUBfRwNnN+CH7dumzKxJswqLdB4j3OPqmlrkuksu4pu+xOLwqcIGPrNxw01CflNBl1cXCg75ODSDohzxj07jYSLk/va0AP1F9oZY3ve8bgrAulJnf3c2WinwmO/mfxBh1Bw7EO+JN2AubA8Qe3i4/7ow14yodrcuQV3YQivfTAfgK5CIYY0NTJKmuin4t2HyDRjeXcFsSPo/epeBmWRkmdUENeSV1zq6hy2uUmm0yl1RWT5tdjQlZwIDAQAB",
+        "list_text_component": {
+            "component_id": "khjkhkejdojojdcgfnmpiaekcaachalk",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlC9+9lGL8OdvQuPPeifQrjY8PHBAR3GFut6C0svSQdkrwWS7dLEGb9GX6aeaw7YnzoQfDX+S9HbAbaW8lAJgjDvcJQjaVXwExxbMndCA/qFdu+EDMMm5Xj4cQiZxaIlvXTedF8SL7AedYseruK5OY2pB7VrRo4ksdeKqWmHEtgrYuu1m4nv0gL+vKtIplSlcID0pmlnefRKXEvEGTLghmPgYGW16s5bch3Y6wFK1l0Nc/+hKn6WWYPxntNffWFbCSSIMrySaKoNHQf0jqPF2UJnvUqP+16clykz7+y3jgU0eQpOpHYjUStxiHsdgc4PluS61Dyymv0tGwZuSvnodPwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt",
+                "title": "uBlock filters – Cookie Notices",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt",
+                "title": "Brave-specific cookie additions",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
         "uuid": "943C00B4-A6D0-4F5D-8C1B-AA7B61902B2F",
         "title": "Fanboy's Mobile Notifications",
         "desc": "Suppress \"switch to app\" notifications and prompts on mobile",
@@ -225,7 +256,7 @@
         ]
     },
     {
-        "uuid": "45e9423d-3270-4360-a910-6f26d144d72d",
+        "uuid": "255E3653-DC00-4DAB-A7C8-504DE821AC6F",
         "title": "YouTube Anti-Shorts",
         "desc": "Youtube Anti-Shorts list",
         "langs": [],
@@ -242,5 +273,24 @@
                 "support_url": "https://github.com/brave/adblock-lists"
             }
         ]
-     }
+     },
+     {
+        "uuid": "AA8400F4-5814-45FA-BD00-E13486A869F0",
+        "title": "IndianList",
+        "desc": "Removes advertisements from Hindi websites",
+        "langs": ["in"],
+        "component_id": "hbdgflfnegfopdippnihncdipcjclojp",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsPGTlA5P3CCVXevopmNrcqK5zJJ51jyOSB1hDSjgiIZPKDd58PBQB9uBjqNZOly0JWddEuwDDGCnl9gIQRm5VaDv9UuYyFbVdXezI8txB1NOLdgOOlPulQVp5AUHJzF9lUpnuNzjljbQ7ui/dGo+ELZs3H9TL2lzrB3WHSHbCY8U5UE1lHDdw3WnxPWjpm9q5qYnIGBSrCMdjvl255xk+6w5G00gmnNtkrhcjS5P5SDazfjK1k5uHW+YQ967VZLfP6/D3jZGobCyaoaf3XkNd5pmbet8Mxc07fuFOaK0u97DK+1dch8NO4S58xjoueEVwcWCoEWJxGXZ/UNEQNCnmQIDAQAB",
+        "list_text_component": {
+            "component_id": "hlefbnpnebkaimnobgblfbomfgddoabe",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApNt1zIuGg6pG67nPRFbnAmtw2X3nlvH2HXk81pqpS7ZGoqHmm+8xjE7EwK7hSVjNQNe2t58fk18+SBV6feE0dm9zPk8fpRFzJDXx4CDt/SDT1t5Xu3G/XGoIqG1SOXIxH2iJ4Nl26PaSpUrfLszUchqXbdqGQTc2EYZHq/3OWNOuEH8EtOVZd4udkUPoNXAbRQQBvTmaGHnO6BdlilIb2S4rXZT5tiEz+sqOknn5bLW959kFomiZX50Z03uED7CaF4EGQrUGuCd5MoviCOEAf1tqp1oCxDD54hmDi+NLq0w8MCiqM/CaDrlE+4NUx3RGIa3OrTP44dlSiT+W0tm0kwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://easylist-downloads.adblockplus.org/indianlist.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/mediumkreation/IndianList"
+            }
+        ]
+    }
 ]
