@@ -223,5 +223,24 @@
                 "support_url": "https://forums.lanik.us/"
             }
         ]
-    }
+    },
+    {
+        "uuid": "45e9423d-3270-4360-a910-6f26d144d72d",
+        "title": "YouTube Anti-Shorts",
+        "desc": "Youtube Anti-Shorts list",
+        "langs": [],
+        "component_id": "ofjdcbopbnjganhmiigccdfndknbgbkk",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvwA/thdLLBBfDh5L4/ceFxDG5oQK7tOZYEkulsSADdlRD1qBKnZf1KJDY6wriFbEOuproeGs8qcMdBJ9jAjsoTeJJaXygsJ8WxWRS+FKkSbP81KO4oQlxMTLNUwXH6vkZ+GGUWruKLVxxgPwky2+oKVTCa2fRoXkjI2j6/R+wHjMUOOadmWF/488Vdz5J0M6PGT1fNBSSgr75hCXggGYm8XM+KM3taxLU0SqCwvhUSIQ5yUADhCqaKUCJHtoA56IRa76ysInXLcEMO26JygeAVQ6D1cJBYXxBpN6VZ5AWJ99Efkc8P62ZEAPqMTWMiCF5WyF7FdavCh0+YOgeq1odwIDAQAB",
+        "list_text_component": {
+            "component_id": "ppdabekieamndbnajhgabcmianjjpjkm",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAryFxQ+LbTX62qtV4HT96wDTBV211HTCKWOV/muFeHlcNEPMxBAQr7O9uwWVqWs7It3oz9cbc3t47eHru2bE3WpsySxzeGNxQt8zk0Gw3TSBzTz0eYENPu6sIeB06bkxfGKZBL2w5pxWfzcmDZSeQAgyr7UtVzz8e8zyJS9JnHHJjGuMKJVF86cplca9KzHN7Y9dSZsdk6B+JVs+YeWi88BOz4plYHXX3XqZVY8Mq+6BsAgC0eyHvL/X+bAqYblYTcoTk7XomSt3DJ83Qxd+DDLqtZmWHdZYTnrKHx2X8vodcSpX8jH/2ODm+sVXe8fN/gp71YYdsUcZUW9OkgCr/WQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-shorts.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+     }
 ]
